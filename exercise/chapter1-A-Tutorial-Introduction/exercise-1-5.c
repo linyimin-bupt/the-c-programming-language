@@ -1,5 +1,5 @@
 /*
- * modify the temperature conversion program to print a heading above the table
+ * modify the temperature conversion program to print the table in reverse order, that is, from 300 degress to 0
  * 
  */
 #include <stdio.h>
